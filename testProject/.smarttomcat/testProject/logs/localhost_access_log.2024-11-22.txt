@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [22/Nov/2024:16:48:15 -0800] "GET /Hotel_Manage HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [22/Nov/2024:16:48:16 -0800] "GET /Hotel_Manage/ HTTP/1.1" 200 1533
+0:0:0:0:0:0:0:1 - - [22/Nov/2024:16:48:16 -0800] "GET /Hotel_Manage/static/admin/img/bj.png HTTP/1.1" 404 803
